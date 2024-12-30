@@ -13,7 +13,7 @@ Tanto los doctores como los servicios se despliegan utilizando la función `map`
 
 ## Introducción a Hooks y Ciclo de Vida
 
-Se utiliza useState para almacenar y actualizar el estado de múltiples aspectos del proyecto (ej: las listas de doctores y servicios, los parámetros del formulario, etc), y además se utiliza useEffect para cargar los datos de los doctores y servicios al lanzar el proyecto.
+Se utiliza `useState` para almacenar y actualizar el estado de múltiples aspectos del proyecto (ej: las listas de doctores y servicios, los parámetros del formulario, etc), y además se utiliza `useEffect` para cargar los datos de los doctores y servicios al lanzar el proyecto.
 
 ## Instrucciones de uso
 
